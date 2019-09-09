@@ -4,11 +4,11 @@ A proof-of-concept mobile implementation of a validated artificial intelligence-
 
 ## Demo
 
-![](GIF Demos/AID-One.gif)
-![](GIF Demos/Data Entry.gif)
-![](GIF Demos/Date Selection.gif)
-![](GIF Demos/Graph.gif)
-![](GIF Demos/Recalibration.gif)
+![AID.One](Demo/AID-One.gif)
+![](Demo/Data Entry.gif)
+![](Demo/Date Selection.gif)
+![](DemoGraph.gif)
+![](Demo/Recalibration.gif)
 
 ## Deployment
 
